@@ -1,4 +1,4 @@
-FROM docker.n8n.io/n8nio/n8n:1.121.3
+FROM docker.n8n.io/n8nio/n8n:2.4.1
 
 USER root
 RUN set -eux; \
